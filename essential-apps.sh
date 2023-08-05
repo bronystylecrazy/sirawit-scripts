@@ -1,12 +1,14 @@
 brew tap iina/homebrew-mpv-iina
 brew install mpv-iina
 brew install tree
+brew install cmatrix
+brew install toilet
 brew install htop
 brew install wget
 brew install nvm
 brew install z
 brew install go
-brew install dockert
+brew install docker
 brew install speedtest-cli
 brew install act
 brew install --cask arc
@@ -67,3 +69,5 @@ brew install --cask latest
 brew install mos
 brew install --cask background-music
 # Goto0 https://sindresorhus.com/speediness
+# Goto https://nightowlapp.co/
+brew install --cask appcleaner
